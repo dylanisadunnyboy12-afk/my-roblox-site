@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Roblox Group</title>
+</head>
+<body>
+  <h1>Welcome to My Roblox Group!</h1>
+  <p>Click the button below to join:</p>
+  <a href="https://www.roblox.com/share?code=6ce90869f085484999207b75531199f5&type=Server">
+    <button>My Roblox Group</button>
+  </a>
+</body>
+</html>
